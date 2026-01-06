@@ -72,6 +72,6 @@ The goal is to produce *clarity* that survives reality.
 
 ---
 
-### A personal note (optional to keep)
+### A personal note
 
 > **If a goal doesn’t collapse complexity somewhere in your life, it’s suspect.**
