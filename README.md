@@ -67,9 +67,8 @@ The goal is to produce *clarity* that survives reality.
 ## Contact / links
 
 - GitHub: you’re already here ✅  
-- LinkedIn: **(add link)**  
-- Portfolio / site: **(add link)**  
-- Email: **(add contact method)**
+- LinkedIn: [**(Benjamin Fuhr)**](https://www.linkedin.com/in/benjamin-fuhr/)  
+- Email: xfaith4@gmail.com
 
 ---
 
